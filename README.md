@@ -1,0 +1,1 @@
+# yahg2005GeneratoDomain
